@@ -2231,7 +2231,7 @@ input, select, textarea {
 		min-height: 3.75em;
 	}
 
-	input[type="checkbox"],
+	/* input[type="checkbox"],
 	input[type="radio"] {
 		-moz-appearance: none;
 		-webkit-appearance: none;
@@ -2309,7 +2309,7 @@ input[type="checkbox"] + label:before {
 
 	input[type="radio"] + label:before {
 		border-radius: 100%;
-	}
+	} */
 
 /* Box */
 
